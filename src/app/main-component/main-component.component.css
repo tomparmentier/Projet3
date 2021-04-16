@@ -1,12 +1,36 @@
 .main-content {
-  text-align: center;
-  display: grid;
-
-  grid-template-columns: 1fr 1fr;
-  grid-gap: 15px;
+  padding: 100px;
+  background-image: url("../../Images/Stadium_Lawn_Rays_of_light_545567_1280x648.jpg");
+  background-size: cover;
+  width: 100%;
+  height: 800px;
 }
 
-.card {
-  margin: auto;
-  margin-top: 15px;
+.container {
+
+  width: 100%;
+
+  background-repeat: no-repeat;
+  padding-top: 15px;
+  margin-top: 40px
+
 }
+
+
+.card1 {
+  min-width: 400px;
+  width: 400px;
+  margin: 20px;
+  margin-top: auto;
+  margin-bottom: auto;
+
+}
+
+.photo {
+  width: 100px;
+  height: 100px;
+  background-image: url("../../Images/creation-logo-insigne-embleme-club-football-football-epee_57043-379.jpg");
+  background-size: cover;
+}
+
+
