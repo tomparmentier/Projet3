@@ -1,0 +1,13 @@
+a nav-link {
+  text-align: center;
+  margin: auto;
+}
+
+
+.logo {
+  width: 100px;
+  height: 50px;
+  background-image: url("./images/kisspng-bootstrap-responsive-web-design-web-development-lo-5af676c04b0535.2749534815261016963073.jpg");
+  background-size: cover;
+}
+

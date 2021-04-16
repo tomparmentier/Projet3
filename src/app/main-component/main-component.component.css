@@ -1,0 +1,12 @@
+.main-content {
+  text-align: center;
+  display: grid;
+
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 15px;
+}
+
+.card {
+  margin: auto;
+  margin-top: 15px;
+}
